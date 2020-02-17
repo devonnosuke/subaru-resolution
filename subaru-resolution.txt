@@ -2,3 +2,4 @@ SUBARU RESOLUTION
 - membuat minimal 3 buku di KDP
 - memperbaiki web profile
 - membuat minimal 1 android app
+- membuat minimal 3 website
