@@ -2,11 +2,10 @@ RENCANA CONTENT WPF
 
 -HTML DASAR
   *HTML5
-  *HTML
+  *Angular
   *React
 -CSS DASAR
   *Materialize
--Android studio
 -PHP DASAR
  ^ Laravel
 -JAVASCRIPT DASAR
